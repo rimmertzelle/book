@@ -14,7 +14,7 @@ Steps to successfully finish this assignment
 
 1. **Choose API and create a simple design**
 - [ ]  Choose your own API (everyone needs to have a unique API)
-- [ ]  Create a [design](Study%20book%20-%20challenges%200a95804b300a4a97acba61792ba5c1f8.md) (for example in Figma) you want to implement using your API
+- [ ]  Create a design (for example in Figma) you want to implement using your API
 - [ ]  Hand in your design and API of choice
 
 **Guidelines for the design.**
@@ -45,17 +45,18 @@ If you want your project to be graded, you have meet the next conditions
 
 For each criteria you will be given 0 or all points.
 
-| **Part** | **HTML** | **CSS layout** | **CSS mobile first** | **AJAX requests** | **Concurrent AJAX requests** |
-| --- | --- | --- | --- | --- | --- |
-| **Points (40)** | **8** | **4** | **4** | **20** | **4** |
-| **Do’s** | Use of structural elements, like `<section>`, `<nav>` and `<aside>` | Use of `flexbox` and or `grid` for positioning | Use of the Tailwindcss mobile approach (e.g. add `sm:` etc before classes | Use `fetch` or `async` `await` for fetching data from an external web service | `Promise.all()` or an equivalent is used for handling concurrent requests |
-| **Don’t** | I will pay attention to the amount of `<span>` and `<div>` that can be changed to other elements | I will pay attention to the amount of `<br/>`, `px` and or misuse of `padding` and `margin`. | Too many breakpoints are added | Not handling `errors` correctly | You didn’t implement concurrent requests |
+| **Part**        | **HTML**                                                                                         | **CSS layout**                                                                               | **CSS mobile first**                                                      | **AJAX requests**                                                             | **Concurrent AJAX requests**                                              |
+| --------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Points (40)** | **8**                                                                                            | **4**                                                                                        | **4**                                                                     | **20**                                                                        | **4**                                                                     |
+| **Do’s**        | Use of structural elements, like `<section>`, `<nav>` and `<aside>`                              | Use of `flexbox` and or `grid` for positioning                                               | Use of the Tailwindcss mobile approach (e.g. add `sm:` etc before classes | Use `fetch` or `async` `await` for fetching data from an external web service | `Promise.all()` or an equivalent is used for handling concurrent requests |
+| **Don’t**       | I will pay attention to the amount of `<span>` and `<div>` that can be changed to other elements | I will pay attention to the amount of `<br/>`, `px` and or misuse of `padding` and `margin`. | Too many breakpoints are added                                            | Not handling `errors` correctly                                               | You didn’t implement concurrent requests                                  |
 
 ### Classes
 
-| Class | Topic |
-| --- | --- |
-| 1 | [AJAX and working with an API](Material%20dd713eee106c4d049e3dc61c48d0d4a8/JS%20-%20Asynchronous%20computing%206fcbd84868cf4605b6ea4c052fbc0b2f.md) |
-| 2 | [Concurrent requests](Material%20dd713eee106c4d049e3dc61c48d0d4a8/JS%20-%20Asynchronous%20computing%206fcbd84868cf4605b6ea4c052fbc0b2f.md) and [Cors](Material%20dd713eee106c4d049e3dc61c48d0d4a8/Aside%20-%20Cors%2071b5eadfe9204810a4f6a915fc3019e5.md) |
-| 3 | [HTML structural elements](Material%20dd713eee106c4d049e3dc61c48d0d4a8/HTML%20-%20structural%20element%2065188a568c1b473bb6155434e280a99e.md) |
-| 4 | [CSS with Tailwind](Material%20dd713eee106c4d049e3dc61c48d0d4a8/CSS%20-%20tailwind%20and%20positioning%20cb2d50db95ee4bd69843d3e518ccc180.md) |
+| Class | Topic                        |
+| ----- | ---------------------------- |
+| 1     | HTML structural elements     |
+| 2     | CSS with Tailwind            |
+| 3     | AJAX and working with an API |
+| 4     | Concurrent requests          |
+
