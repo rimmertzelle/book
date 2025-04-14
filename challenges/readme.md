@@ -4,8 +4,8 @@
 
 ---
 
-[🎓 Study book - challenges](challenges/study_book_challenges.md)
+[🎓 Study book - challenges](Challenges/study_book_challenges.md)
 
-[🧩 Classes](challenges/classes.md)
+[🧩 Classes](Challenges/classes.md)
 
-[👩‍💻 Material](challenges/material.md)
+[👩‍💻 Material](Challenges/material.md)
